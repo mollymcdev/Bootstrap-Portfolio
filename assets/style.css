@@ -60,4 +60,18 @@ a {
     margin: 20px;
 }
 
+h5 {
+    position: relative;
+    top: 75%;
+    width: 200px;
+    padding: 5px 0px 5px 0px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #4aaaa5;
+}
+
+.prj-text {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+}
 
